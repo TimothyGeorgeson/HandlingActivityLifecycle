@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandlingActivityLifecycle</string>
+    <string name="tvMain">tvMain</string>
+</resources>
